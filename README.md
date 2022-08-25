@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoseHacks
 - 👀 I’m interested in ethical hacking, programming, and giving back to the community.
-- 🌱 I’m currently how to setup and break Active Diectory.
+- 🌱 I’m currently learning how to setup and break Active Diectory.
 - 📫 How to reach me: rosehackslearning.com
 
 <!---
