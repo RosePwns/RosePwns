@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoseHacks
 - 👀 I’m interested in ethical hacking, programming, and giving back to the community.
-- 📫 How to reach me: rosehackslearning@gmail.com
+- 📫 How to reach me: OSINT
 
 <!---
 RoseHacks/RoseHacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
