@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RosePwns
-- 👀 I’m interested in ethical hacking, programming, and giving back to the community.
+- 👀 A red team operator. Currently studying for the OSEP/OSWE. 
 - 📫 How to reach me: OSINT
 
 <!---
