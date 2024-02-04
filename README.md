@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RosePwns
 - 👀 A red team operator. Currently studying for the OSEP/OSWE. 
-- 📫 How to reach me: OSINT
+- 📫 How to reach me: OSINT/Issues
 
 <img src="https://github.com/RosePwns/HTB_Challenges/blob/main/assets/gitme.PNG">
 <!---
