@@ -1,17 +1,34 @@
-- 👋 Hi, I’m @RosePwns
-- ✨ I like stars
-- 👀 Currently studying for the OSEP/OSWE. 
-- 👾 <a href="https://app.hackthebox.com/profile/1055111">
-  <img src="https://app.hackthebox.com/profile/badges/1055111" alt="HackTheBox">
-       </a>
-- ♥️   <a href="https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA">
-  <img src="" alt="YouTube">
-</a>
-<img src="https://github.com/RosePwns/HTB_Challenges/blob/main/assets/gitme.PNG">
+<div align="center">
 
+# 🤗 Hello World! 🤗
 
+</div>
 
-<!---
-RoseHacks/RoseHacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+```json
+{
+  "name": "Chandler Rose",
+  "nickname": "RosePwns",
+  "occupation":"Red Team Operator"
+  "birthYear": 1998,
+  "environment": ["Windows", "x86_64"],
+  "locale": "US",
+  "preferLanguages": [
+    { "name": "Python", "percent": 90 },
+    { "name": "JavaScript", "percent": 10 }
+  ],
+}
+```
+---
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosePwns&layout=compact&theme=github_dark)
+
+</div>
+<div align="end">
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminj-ae&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)
+
+[Buy me a Coffee](https://www.buymeacoffee.com/crose)![image](https://github.com/RosePwns/RosePwns/assets/109770223/3504f318-dc44-46c6-af9a-992a8a57af8e)
