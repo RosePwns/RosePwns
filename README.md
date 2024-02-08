@@ -29,6 +29,4 @@
 </div>
 <div align="end">
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminj-ae&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)
-
 [Buy me a Coffee](https://www.buymeacoffee.com/crose)![image](https://github.com/RosePwns/RosePwns/assets/109770223/3504f318-dc44-46c6-af9a-992a8a57af8e)
