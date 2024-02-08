@@ -23,8 +23,6 @@
 ```
 <div align="left">
 
-  <br>
-
 - 👾 [HackTheBox](https://app.hackthebox.com/profile/badges/1055111)
   <br>
 
