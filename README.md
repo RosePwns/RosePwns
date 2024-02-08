@@ -20,7 +20,7 @@
   ],
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosePwns&layout=compact&theme=github_dark)![image](https://github.com/RosePwns/RosePwns/assets/109770223/47f87b77-6fc4-44fd-89e1-80c6262f232e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosePwns&layout=compact&theme=github_dark)
 
 
 <div align="center">
