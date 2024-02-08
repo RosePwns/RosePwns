@@ -10,24 +10,24 @@
 {
   "name": "Chandler Rose",
   "nickname": "RosePwns",
-  "occupation":"Red Team Operator"
+  "status":"Studying for the OSWE and OSEP",
+  "occupation":"Red Team Operator",
   "birthYear": 1998,
   "environment": ["Linux", "x86_64"],
   "locale": "US",
   "preferLanguages": [
-    { "name": "Python", "percent": 90 },
-    { "name": "JavaScript", "percent": 10 }
+    { "name": "Python", "percent": 99.9 },
+    { "name": "JavaScript", "percent": 0.1 }
   ],
 }
 ```
 <div align="left">
 - ✨ I like stars
   <br>
-- 👀 Currently studying for the OSEP/OSWE. 
-  <br>
 - 👾 <a href="https://app.hackthebox.com/profile/1055111">
   <img src="https://app.hackthebox.com/profile/badges/1055111" alt="HackTheBox">
        </a>
+  <br>
 - ♥️   <a href="https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA">
   <img src="" alt="YouTube">
 </a>
