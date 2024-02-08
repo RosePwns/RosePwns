@@ -25,9 +25,8 @@
 
 </div>
 <div align="end">
-  
+</div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRosePwns&count_bg=%235EBA18&title_bg=%23353333&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 [Buy me a Coffee](https://www.buymeacoffee.com/crose)![image](https://github.com/RosePwns/RosePwns/assets/109770223/3504f318-dc44-46c6-af9a-992a8a57af8e)
-
-</div>
