@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RosePwns
 - 👀 Currently studying for the OSEP/OSWE. 
-- 📫 How to reach me: OSINT/Issues
 - ✨ I like stars
 - 👾 <a href="https://app.hackthebox.com/profile/1055111">
   <img src="https://app.hackthebox.com/profile/badges/1055111" alt="HackTheBox">
