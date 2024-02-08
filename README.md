@@ -21,8 +21,8 @@
 }
 ```
 <div align="left">
-- ✨ I like stars
-- 👀 Currently studying for the OSEP/OSWE. 
+  ✨ I like stars
+  👀 Currently studying for the OSEP/OSWE. 
 - 👾 <a href="https://app.hackthebox.com/profile/1055111">
   <img src="https://app.hackthebox.com/profile/badges/1055111" alt="HackTheBox">
        </a>
