@@ -29,7 +29,6 @@
 - ♥️   <a href="https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA">
   <img src="" alt="YouTube">
 </a>
-<img src="https://github.com/RosePwns/HTB_Challenges/blob/main/assets/gitme.PNG">![image](https://github.com/RosePwns/RosePwns/assets/109770223/a4332752-152f-4583-b00c-5cc9dc4f3d4c)
 
 ---
 
