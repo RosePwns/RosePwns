@@ -4,8 +4,8 @@
 - ✨ I like stars
 - 👾 <a href="https://app.hackthebox.com/profile/1055111">
   <img src="https://app.hackthebox.com/profile/badges/1055111" alt="LordPigeon">
-</a>
-*  ♥️ <a href="https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA">
+       </a>
+- ♥️   <a href="https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA">
   <img src="" alt="YouTube">
 </a>
 <img src="https://github.com/RosePwns/HTB_Challenges/blob/main/assets/gitme.PNG">
