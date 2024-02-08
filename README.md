@@ -10,9 +10,9 @@
 {
   "name": "Chandler Rose",
   "nickname": "RosePwns",
-  "status":"Studying for the OSWE and OSEP",
   "occupation":"Red Team Operator",
-  "birthYear": 1998,
+  "status":"Studying for the OSWE and OSEP",
+  "birthday": "November 12th",
   "environment": ["Linux", "x86_64"],
   "locale": "US",
   "preferLanguages": [
