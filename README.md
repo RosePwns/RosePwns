@@ -20,6 +20,8 @@
   ],
 }
 ```
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosePwns&layout=compact&theme=github_dark)
 
 
