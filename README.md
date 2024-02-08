@@ -3,7 +3,7 @@
 - 📫 How to reach me: OSINT/Issues
 - ✨ I like stars
 <br>
-[ ![LordPigeon](https://app.hackthebox.com/profile/badges/1055111)](https://app.hackthebox.com/profile/1055111)
+[ ![ LordPigeon](https://app.hackthebox.com/profile/badges/1055111)](https://app.hackthebox.com/profile/1055111)
 
 <img src="https://github.com/RosePwns/HTB_Challenges/blob/main/assets/gitme.PNG">
 
