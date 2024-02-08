@@ -2,8 +2,7 @@
 - 👀 Currently studying for the OSEP/OSWE. 
 - 📫 How to reach me: OSINT/Issues
 - ✨ I like stars
-<br>
-<a href="https://app.hackthebox.com/profile/1055111">
+- <a href="https://app.hackthebox.com/profile/1055111">
   <img src="https://app.hackthebox.com/profile/badges/1055111" alt="LordPigeon">
 </a>
 
