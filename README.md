@@ -24,9 +24,9 @@
 <div align="left">
 - ✨ I like stars
   <br>
-- 👾 [HackTheBox](https://app.hackthebox.com/profile/badges/1055111)
+- 👾 [![HackTheBox](https://app.hackthebox.com/profile/badges/1055111)]
   <br>
-- ♥️  [YouTube](https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA)
+- ♥️  [![YouTube](https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA)]
 
 ---
 
