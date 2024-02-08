@@ -23,7 +23,6 @@
 ```
 <div align="left">
 
-- ✨  I like stars!✨✨✨
   <br>
 
 - 👾 [HackTheBox](https://app.hackthebox.com/profile/badges/1055111)
