@@ -21,7 +21,7 @@
   ],
 }
 ```
-<div align="end">
+<div align="right">
 
 👾 [HackTheBox](https://app.hackthebox.com/profile/badges/1055111)  ♥️  [YouTube](https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA)
 
