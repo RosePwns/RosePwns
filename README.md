@@ -9,7 +9,7 @@
 ```json
 {
   "name": "Chandler Rose",
-  "nickname": "RosePwns",
+  "handle": "RosePwns",
   "birthday": "November 12th",
   "occupation": "Red Team Operator",
   "status": "Studying for the OSWE and OSEP",
