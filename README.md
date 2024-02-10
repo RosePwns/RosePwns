@@ -18,7 +18,7 @@
   "preferLanguages": [
     { "name": "Python", "percent": 99.9 },
     { "name": "JavaScript", "percent": 0.1 }
-  ],
+  ]
 }
 ```
 <div align="left">
