@@ -10,6 +10,7 @@
 {
   "name": "Chandler Rose",
   "handle": "RosePwns",
+  "team": "Zer0D@y",
   "birthday": "November 12th",
   "company": "Securifera",
   "role": "Red Team Operator",
