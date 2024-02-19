@@ -15,8 +15,8 @@
   "company": "Securifera",
   "role": "Red Team Operator",
   "status": "Studying for the OSWE and OSEP",
-  "environment": ["Linux", "x86_64"],
   "locale": "US",
+  "environment": ["Linux", "x86_64"],
   "preferLanguages": [
     { "name": "Python", "percent": 99.9 },
     { "name": "JavaScript", "percent": 0.1 }
