@@ -16,9 +16,10 @@
   "status": "Studying for the OSWE and OSEP",
   "locale": "US",
   "environment": ["Linux", "x86_64"],
-  "preferLanguages": [
-    { "name": "Python", "percent": 99.9 },
-    { "name": "JavaScript", "percent": 0.1 }
+  "Languages": [
+    { "name": "Python", "percent": 95.0 },
+    { "name": "JavaScript", "percent": 2.5 },
+    { "name": "C++", "percent": 2.5 }
   ]
 }
 ```
