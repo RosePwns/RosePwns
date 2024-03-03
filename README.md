@@ -13,7 +13,7 @@
   "team": "Zer0D@y",
   "company": "Securifera",
   "role": "Red Team Operator",
-  "status": "Studying for the OSWE and OSEP",
+  "status": "Working, school, and OSEP.",
   "locale": "US",
   "environment": ["Linux", "x86_64"],
   "Languages": [
