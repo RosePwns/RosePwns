@@ -9,7 +9,7 @@
 ```json
 {
   "name": "Chandler Rose",
-  "handle": "RosePwns",
+  "handle": "R0sePwns",
   "team": "NotARedTeam",
   "company": "Securifera",
   "role": "Red Team Operator",
