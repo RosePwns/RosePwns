@@ -10,7 +10,7 @@
 {
   "name": "Chandler Rose",
   "handle": "RosePwns",
-  "team": "Zer0D@y",
+  "team": "NotARedTeam",
   "company": "Securifera",
   "role": "Red Team Operator",
   "status": "Working, school, and OSEP.",
