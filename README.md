@@ -10,8 +10,7 @@
 {
   "name": "Chandler Rose",
   "handle": "R0sePwns",
-  "team": "NotARedTeam",
-  "company": "Securifera",
+  "ctfteam": "NotARedTeam",
   "role": "Red Team Operator",
   "status": "Working, school, and OSEP.",
   "locale": "US",
